@@ -26,5 +26,14 @@
     ],
     "scripts": [
         "./scripts/iconChanges.js"
-    ]
+    ],
+    "url": "https://github.com/Knimga/Laria-Map",
+    "languages": [
+        {
+          "lang": "en",
+          "name": "English",
+          "path": "lang/en.json"
+        }
+    ],
+    "system": ["dnd5e"]
 }
