@@ -1,0 +1,30 @@
+{
+    "name": "lariamap",
+    "title": "Laria Map",
+    "description": "Map of Laria with regional/historical notes",
+    "version": "0.1",
+    "author": "Evan",
+    "minimumCoreVersion": "0.8.9",
+    "compatibleVersion": "0.8.9",
+    "packs": [
+        {
+            "name": "scenes",
+            "label": "Laria map scene",
+            "path": "./packs/laria-map.db",
+            "entity": "Scene",
+            "module": "lariamap",
+            "system": "dnd5e"
+        },
+        {
+            "name": "journalentries",
+            "label": "Laria map journal entries",
+            "path": "./packs/laria-map-notes.db",
+            "entity": "JournalEntries",
+            "module": "lariamap",
+            "system": "dnd5e"
+        }
+    ],
+    "scripts": [
+        "./scripts/iconChanges.js"
+    ]
+}
