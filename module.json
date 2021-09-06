@@ -2,7 +2,7 @@
     "name": "lariamap",
     "title": "Laria Map",
     "description": "Map of Laria with regional/historical notes",
-    "version": "0.1",
+    "version": "0.2",
     "author": "Evan",
     "minimumCoreVersion": "0.8.9",
     "compatibleVersion": "0.8.9",
@@ -35,6 +35,6 @@
           "path": "lang/en.json"
         }
     ],
-    "manifest": "https://github.com/Knimga/Laria-Map/releases/download/0.1/module.json",
-    "download": "https://github.com/Knimga/Laria-Map/releases/download/0.1/laria-map.zip"
+    "manifest": "https://github.com/Knimga/Laria-Map/releases/download/0.2/module.json",
+    "download": "https://github.com/Knimga/Laria-Map/releases/download/0.2/laria-map.zip"
 }
