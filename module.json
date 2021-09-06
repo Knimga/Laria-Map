@@ -35,5 +35,6 @@
           "path": "lang/en.json"
         }
     ],
-    "manifest": "https://github.com/Knimga/laria-map/module.json"
+    "manifest": "https://github.com/Knimga/Laria-Map/releases/download/0.1/module.json",
+    "download": "https://github.com/Knimga/Laria-Map/releases/download/0.1/laria-map.zip"
 }
