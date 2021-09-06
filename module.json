@@ -35,5 +35,5 @@
           "path": "lang/en.json"
         }
     ],
-    "system": ["dnd5e"]
+    "manifest": "https://github.com/Knimga/laria-map/module.json"
 }
