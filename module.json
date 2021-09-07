@@ -1,5 +1,5 @@
 {
-    "name": "lariamap",
+    "name": "laria-map",
     "title": "Laria Map",
     "description": "Map of Laria with regional/historical notes",
     "version": "0.2",
@@ -12,15 +12,15 @@
             "label": "Laria map scene",
             "path": "./packs/laria-map.db",
             "entity": "Scene",
-            "module": "lariamap",
+            "module": "laria-map",
             "system": "dnd5e"
         },
         {
             "name": "journalentries",
             "label": "Laria map journal entries",
             "path": "./packs/laria-map-notes.db",
-            "entity": "JournalEntries",
-            "module": "lariamap",
+            "entity": "JournalEntry",
+            "module": "laria-map",
             "system": "dnd5e"
         }
     ],
